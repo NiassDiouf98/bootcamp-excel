@@ -1,80 +1,45 @@
-# Bootcamp Excel
+# 🚀 Excel Bootcamp — 30 Jours
 
-## Jour 1 — Environnement & références
+![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow?style=flat-square)
+![Jour](https://img.shields.io/badge/Jour-4%20sur%2030-blue?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-Microsoft%20365%cloud-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24-0078D4?style=flat-square&logo=Linux&logoColor=white)
 
-* Cellule et plage de cellules
-* Classeur vs feuille de calcul
-* Références :
+---
 
-  * Relative : `A1`
-  * Absolue : `$A$1`
-  * Mixte : `$A1` / `A$1`
-* Poignée de recopie
-* Raccourci `F4`
-* Utilisation des références dans les calculs
-* Figer des valeurs avec **Collage spécial → Valeurs**
+## 📖 Présentation
 
-## Jour 2 — Mise en forme
+**30 jours** pour maîtriser Excel niveau **entreprise** — formules avancées, TCD, Power Query, dashboards, VBA.
 
-* Valeur vs format d'affichage
-* Formats :
+| 🎯 **Format** | 1 dossier par jour : théorie + pratique |
+| 🧭 **Programme** | Template Notion — contenu recopié jour par jour |
+| 🧑‍🏫 **Coaching** | Sessions avec notre coach Dev DATA — cas métier (RH/finance/reporting) |
+| 💻 **Stack** | Windows · Excel · Git Bash · VS Code · GitHub |
 
-  * Nombre
-  * Pourcentage
-  * Devise
-  * Date
-* Mise en forme des tableaux
-* Alignement et bordures
-* Ajustement automatique des colonnes
-* Fusion de cellules pour les titres
+---
 
-## Jour 3 — Tri et filtres
+> Les jours 15 à 30 suivent le même motif. Le README de chaque jour contient :  
+> **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
 
-* Différence entre trier et filtrer
-* Tri sur une seule colonne (risques et bonnes pratiques)
-* Filtre simple vs plusieurs critères
-* Filtre personnalisé (conditions avancées)
-* Tri sur plusieurs colonnes
-* Tri et filtres sur les nombres, dates et textes
+---
 
-## Jour 4 — Validation des données
+## 📊 Progression
 
-* Définition : contrôler ce qu'un utilisateur peut saisir dans une cellule
-* Liste déroulante vs restriction numérique
-* Amélioration de la qualité d'un dataset
-* Message d'entrée vs message d'erreur
-* Limites de la validation (n'empêche pas toujours l'erreur)
-* Types de validations : texte libre, nombres, dates, listes
+### Sprint 1 — Fondations (Jours 1–10) ✅
 
-## Mini-projets
+```test
+[███████████████░░░░░░░░░░░░░░░] 50 % — Sprint 1 terminé
+```
 
-### Jour 1-2 : Bulletin scolaire
-
-Creer un **Bulletin scolaire — Bootcamp Data**
-
-Application pratique des notions étudiées sur un fichier Excel.
-
-### Jour 3 : Identifier les meilleurs étudiants
-
-À partir d'une base de 1 000 étudiants, identification rapide des étudiants les plus performants.
-
-* Analyse 1 : Top 10 étudiants en Python
-* Analyse 2 : Étudiants réguliers (critères multiples)
-* Analyse 3 : Étudiants à accompagner
-* Analyse 4 : Classement par filière
-* Challenge : Identifier les 20 meilleures performances globales
-
-### Jour 4 : Formulaire d'inscription
-
-Construction d'un **formulaire d'inscription à une formation** avec validation des données.
-
-Champs avec validation :
-
-* Nom complet (texte libre)
-* Sexe (liste déroulante)
-* Âge (entier entre 18 et 60)
-* Ville (liste déroulante)
-* Filière (liste déroulante)
-* Niveau (liste déroulante)
-* Date d'inscription (date valide)
-* Email (texte libre)
+| Jour | Thème                               | Statut |
+|:----:|-------------------------------------|:------:|
+| 01   | Références (relative/absolue/mixte) |   ✅   |
+| 02   | Mise en forme (nombres, %, €, dates)|   ✅   |
+| 03   | Tri et filtres                      |   ✅   |
+| 04   | Validation des données              |   ✅   |
+| 05   | Mise en forme conditionnelle        |   ✅   |
+| 06   | Opérateurs et calculs               |        |
+| 07   | Fonctions statistiques              |        |
+| 08   | Fonctions logiques                  |        |
+| 09   | Fonctions de texte                  |        |
+| 10   | Fonctions de date                   |        |
