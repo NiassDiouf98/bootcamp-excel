@@ -28,18 +28,18 @@
 ### Sprint 1 — Fondations (Jours 1–10) ✅
 
 ```test
-[██████████████████░░░░░░░░░░░░] 60 % — Sprint 1 terminé
+[██████████████████████░░░░░░░░] 70 % — Sprint 1 terminé
 ```
 
 | Jour | Thème                               | Statut |
-|:----:|-------------------------------------|:------:|
+|:----:|-------------------------------------|:------:|d
 | 01   | Références (relative/absolue/mixte) |   ✅   |
 | 02   | Mise en forme (nombres, %, €, dates)|   ✅   |
 | 03   | Tri et filtres                      |   ✅   |
 | 04   | Validation des données              |   ✅   |
 | 05   | Mise en forme conditionnelle        |   ✅   |
 | 06   | Opérateurs et calculs               |   ✅   |
-| 07   | Fonctions statistiques              |        |
+| 07   | Fonctions statistiques              |   ✅   |
 | 08   | Fonctions logiques                  |        |
 | 09   | Fonctions de texte                  |        |
 | 10   | Fonctions de date                   |        |
