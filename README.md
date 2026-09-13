@@ -28,18 +28,37 @@
 ### Sprint 1 — Fondations (Jours 1–10) ✅
 
 ```test
-[██████████████████████████████] 100 % — Sprint 1 terminé
+[█████████████████████████████████] 100 % — Sprint 1 terminé
 ```
 
-| Jour | Thème                               | Statut |
-|:----:|-------------------------------------|:------:|d
-| 01   | Références (relative/absolue/mixte) |   ✅   |
-| 02   | Mise en forme (nombres, %, €, dates)|   ✅   |
-| 03   | Tri et filtres                      |   ✅   |
-| 04   | Validation des données              |   ✅   |
-| 05   | Mise en forme conditionnelle        |   ✅   |
-| 06   | Opérateurs et calculs               |   ✅   |
-| 07   | Fonctions statistiques              |   ✅   |
-| 08   | Fonctions logiques                  |   ✅   |
-| 09   | Fonctions de texte                  |   ✅   |
-| 10   | Fonctions de date                   |   ✅   |
+| Jour | Thème | Statut |
+|:----:|-------------------------------------|:--:|
+| 01   | Références (relative/absolue/mixte) | ✅ |
+| 02   | Mise en forme (nombres, %, €, dates)| ✅ |
+| 03   | Tri et filtres                      | ✅ |
+| 04   | Validation des données              | ✅ |
+| 05   | Mise en forme conditionnelle        | ✅ |
+| 06   | Opérateurs et calculs               | ✅ |
+| 07   | Fonctions statistiques              | ✅ |
+| 08   | Fonctions logiques                  | ✅ |
+| 09   | Fonctions de texte                  | ✅ |
+| 10   | Fonctions de date                   | ✅ |
+
+### Sprint 2 — Excel pour le Data Analyst (Jours 11–20)
+
+```text
+[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10 % — Sprint 2 terminé
+```
+
+| Jour | Thème                              | Statut |
+|:----:|------------------------------------|:------:|
+| 11   | VLOOKUP                            | ✅ |
+| 12   | XLOOKUP                            | ⬜ |
+| 13   | INDEX & MATCH                      | ⬜ |
+| 14   | Tableaux Excel                     | ⬜ |
+| 15   | Graphiques                         | ⬜ |
+| 16   | Tableaux croisés dynamiques        | ⬜ |
+| 17   | Nettoyage des données              | ⬜ |
+| 18   | Importation de données             | ⬜ |
+| 19   | Dashboard interactif               | ⬜ |
+| 20   | Projet intermédiaire               | ⬜ |
