@@ -28,7 +28,7 @@
 ### Sprint 1 — Fondations (Jours 1–10) ✅
 
 ```test
-[████████████████████████████░░] 90 % — Sprint 1 terminé
+[██████████████████████████████] 100 % — Sprint 1 terminé
 ```
 
 | Jour | Thème                               | Statut |
@@ -42,4 +42,4 @@
 | 07   | Fonctions statistiques              |   ✅   |
 | 08   | Fonctions logiques                  |   ✅   |
 | 09   | Fonctions de texte                  |   ✅   |
-| 10   | Fonctions de date                   |        |
+| 10   | Fonctions de date                   |   ✅   |
